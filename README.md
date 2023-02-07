@@ -1,5 +1,5 @@
-Building and previewing your site locally
-Assuming Jekyll and Bundler are installed on your computer:
+Building and previewing your site locally:
+
 
 Change your working directory to the root directory of your site.
 
