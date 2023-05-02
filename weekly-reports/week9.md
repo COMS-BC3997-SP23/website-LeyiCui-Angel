@@ -15,7 +15,7 @@ nav_order: 9
 1. Looked at the demo output of VIBE model, figured that it is too complicated for the sake of my study design.
 2. Document on VIBE's output, and the reasons why VIBE is not a good fit.
 
-## Goals for next next week
+## Goals for next week
 1. Investigate on other models that might be a good fit.
 
 ## Notes

@@ -16,5 +16,5 @@ nav_order: 12
 2. Apply AlphaPose on demo images and analyze the results.
 2. Finished up the final project paper.
 
-## Goals for next next week (end of the semester ;) )
+## Goals for next week (end of the semester ;) )
 1. It's the end of the semester! Yay!

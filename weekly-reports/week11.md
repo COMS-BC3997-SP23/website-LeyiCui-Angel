@@ -16,7 +16,7 @@ nav_order: 11
 2. Compare OpenPose and AlphaPose, and decided to work on AlphaPose toward the end of the semester
 3. Writing up the Initial Study part of the final research paper
 
-## Goals for next next week (next week is the last week of class)
+## Goals for next week (next week is the last week of class)
 1. Apply AlphaPose.
 2. Presentation.
 

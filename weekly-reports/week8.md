@@ -15,7 +15,7 @@ nav_order: 8
 1. Tried VIBE. Failed because of dependency issues.
 2. Submittted Issues on GitHub and sent email, waiting for responses.
 
-## Goals for next next week
+## Goals for next week
 1. Sucessfully implement VIBE, or look for other models.
 
 ## Problems
